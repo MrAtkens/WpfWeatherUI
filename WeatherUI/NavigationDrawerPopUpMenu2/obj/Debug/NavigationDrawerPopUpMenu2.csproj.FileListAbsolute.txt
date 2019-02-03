@@ -1,0 +1,208 @@
+C:\Users\abelo\source\repos\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.csprojResolveAssemblyReference.cache
+C:\Users\abelo\source\repos\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.g.cs
+C:\Users\abelo\source\repos\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\App.g.cs
+C:\Users\abelo\source\repos\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+C:\Users\abelo\source\repos\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+C:\Users\abelo\source\repos\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+C:\Users\abelo\source\repos\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+C:\Users\abelo\source\repos\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+C:\Users\abelo\source\repos\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+C:\Users\abelo\source\repos\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\abelo\source\repos\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\abelo\source\repos\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\abelo\source\repos\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.baml
+C:\Users\abelo\source\repos\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+C:\Users\abelo\source\repos\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+C:\Users\abelo\source\repos\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.csproj.GenerateResource.Cache
+C:\Users\abelo\source\repos\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.csproj.CoreCompileInputs.cache
+C:\Users\abelo\source\repos\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+C:\Users\abelo\source\repos\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
+C:\Users\abelo\source\repos\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\App.baml
+D:\GIT\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+D:\GIT\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+D:\GIT\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+D:\GIT\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+D:\GIT\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\GIT\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\GIT\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\GIT\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.csprojResolveAssemblyReference.cache
+D:\GIT\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.g.cs
+D:\GIT\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\UserControlHome.g.cs
+D:\GIT\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\App.g.cs
+D:\GIT\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+D:\GIT\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+D:\GIT\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\App.baml
+D:\GIT\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.baml
+D:\GIT\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\UserControlHome.baml
+D:\GIT\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+D:\GIT\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+D:\GIT\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.csproj.GenerateResource.Cache
+D:\GIT\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.csproj.CoreCompileInputs.cache
+D:\GIT\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+D:\GIT\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
+D:\GIT\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\UserControlCreate.g.cs
+D:\GIT\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\UserControlCreate.baml
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.csprojAssemblyReference.cache
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.csproj.GenerateResource.cache
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.csproj.CoreCompileInputs.cache
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.csproj.CopyComplete
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\View\MainWindow.g.cs
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\View\App.g.cs
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\View\App.baml
+C:\Users\77077\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\View\MainWindow.baml
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\Newtonsoft.Json.dll
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.pdb
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\Newtonsoft.Json.pdb
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\Newtonsoft.Json.xml
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.csprojAssemblyReference.cache
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\View\MainWindow.g.cs
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\View\App.g.cs
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\View\App.baml
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\View\MainWindow.baml
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.csproj.GenerateResource.cache
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.csproj.CoreCompileInputs.cache
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.csproj.CopyComplete
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+D:\Dekstop development on c#\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.csprojAssemblyReference.cache
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\View\MainWindow.g.cs
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\View\App.g.cs
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\View\App.baml
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\View\MainWindow.baml
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.csproj.GenerateResource.cache
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.csproj.CoreCompileInputs.cache
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.csproj.CopyComplete
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+C:\Users\КалиаскарР\Desktop\SecurityFace UI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.csprojAssemblyReference.cache
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\obj\Debug\View\MainWindow.g.cs
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\obj\Debug\View\App.g.cs
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\obj\Debug\View\App.baml
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\obj\Debug\View\MainWindow.baml
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.csproj.GenerateResource.cache
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.csproj.CoreCompileInputs.cache
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.csproj.CopyComplete
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+C:\Users\77077\Desktop\WeatherUI\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
